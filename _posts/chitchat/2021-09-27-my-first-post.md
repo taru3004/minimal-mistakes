@@ -1,9 +1,9 @@
 ---
 title:  "[잡담] 내 첫 블로그." 
-excerpt: "Jekyll로 깃허브 블로그를 만들어 보았다."
+excerpt: "Blog Test"
 
 categories:
-  - Chitchat
+  - chitchat
 tags:
   - [chitchat, 잡담]
 
