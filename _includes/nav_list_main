@@ -52,7 +52,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "chitchat" %}
-                        <li><a href="/categories/baekjoon" class="">잡담 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/chitchat" class="">잡담 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
