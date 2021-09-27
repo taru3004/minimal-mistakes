@@ -288,6 +288,7 @@ defaults:
       share: true
       related: true
       # added by jskim
+      sidebar_main: true
       show_date: true
       date_format: "%Y-%m-%d"
       comments: true
