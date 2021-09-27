@@ -7,7 +7,7 @@ categories:
 tags:
   - [chitchat, 잡담]
 
-toc: true
+toc: false
 toc_sticky: true
  
 date: 2021-09-27
