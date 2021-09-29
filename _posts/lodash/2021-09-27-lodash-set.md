@@ -6,7 +6,4 @@ categories:
   - js-lodash
 tags:
   - [Javascript, lodash]
-
-toc: true
-toc_sticky: true
 ---
