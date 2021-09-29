@@ -52,7 +52,7 @@
 
 .pagination {
   @include clearfix();
-  //float: left;
+  float: left;
   margin-top: 1em;
   padding-top: 1em;
   width: 100%;
@@ -536,9 +536,10 @@
   margin: 0.5rem 0;
   padding: 0.25rem 0;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
+  font-size: $type-size-3;
   font-weight: bold;
   text-transform: uppercase;
+  color: mix(#fff,$primary-color,35%);
   border-bottom: 1px solid $border-color;
 }
 
