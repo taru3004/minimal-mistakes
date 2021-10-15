@@ -528,7 +528,6 @@
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
-  color: black;
 }
 
 .nav__sub-title {
@@ -557,7 +556,7 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: black;  //#fff;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
