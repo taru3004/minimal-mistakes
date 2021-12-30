@@ -1,11 +1,11 @@
 ---
-title: "shell"
+title: "chitchat"
 layout: archive
-permalink: categories/shell
+permalink: categories/chitchat
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.shell %}
+{% assign posts = site.categories.chitchat %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
