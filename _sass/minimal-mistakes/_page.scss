@@ -95,11 +95,17 @@ body {
 */
 
   h1, h2 {
+    margin-top: 20px;
     font-family: $hopang_outline;
     border-bottom: 1px solid $border-color;
   }
+
+  h3, h4, h5, h6 {
+    margin-top: 10px;
+  }
 	
   h1, h2, h3, h4, h5, h6 {
+    margin-top: 20px;
     .header-link {
 	position: relative;
 	left: 0.5em;
